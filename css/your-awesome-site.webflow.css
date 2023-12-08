@@ -1,1 +1,17 @@
+.body {
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
 
+.div-block {
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+
+.heading {
+  font-size: 167px;
+  line-height: 1.2;
+}
